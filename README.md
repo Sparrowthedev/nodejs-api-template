@@ -11,7 +11,7 @@ Social logins (Google&Apple), unit and integration tests, in-app purchases (Goog
 
 ## Manual Installation
 
-- git clone https://github.com/bahricanyesil/nodejs-starter-template.git
+- git clone https://github.com/sparrowthedev/nodejs-api-template.git
 - cd nodejs-starter-template
 - npm install
 - Prepare the environment variables by generating .env file just as .env.sample file
